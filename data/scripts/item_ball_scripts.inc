@@ -18,6 +18,10 @@ ViridianForest_EventScript_ItemPotion::
 	finditem ITEM_POTION
 	end
 
+PalletTown_ProfessorOaksLab_EventScript_ItemPotion::
+	finditem ITEM_POTION
+	end
+
 MtMoon_1F_EventScript_ItemParalyzeHeal::
 	finditem ITEM_PARALYZE_HEAL
 	end
